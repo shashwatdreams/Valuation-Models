@@ -1,8 +1,9 @@
 # DCF
 Building a discounted cash flow model for every company in the Dow 30, to find the intrinsic value of these companies. I will try to keep all of these updated, but looking for help to find errors, or anyone who has a FactSet/Terminal.
 
-**Example: (Apple)**
+**Example (Apple):**
 - Pulling Historical Financial Data/Bank's Estimates
+
 ![image](https://user-images.githubusercontent.com/68554481/178504844-bb585f0a-468c-4c44-805f-07827defa241.png)
 
 
