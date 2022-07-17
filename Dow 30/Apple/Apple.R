@@ -4,8 +4,8 @@ library(plotly)
 # x axis
 x = list("Current Share Price", "Upside", "Intrinsic Value")
 measure = c("relative", "relative", "total")
-text = c("", "+94.68", "241.70")
-y = c(147.02, 94.68, 241.70)
+text = c("", "+91.53", "241.70")
+y = c(150.17, 91.53, 241.70)
 data = data.frame(x=factor(x,levels=x),measure,text,y)
 
 fig <- plot_ly(
