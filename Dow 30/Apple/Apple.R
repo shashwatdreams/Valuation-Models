@@ -20,4 +20,3 @@ fig <- fig %>%
          showLegend = FALSE)
 
 fig
-
