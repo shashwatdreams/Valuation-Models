@@ -13,9 +13,9 @@ fig <- plot_ly(
   x = ~x, textposition = "outside", y= ~y, text =~ text,
   connector = list(line = list(color = "rgb(63, 63, 63)")))
 fig <- fig %>%
-  layout(title = "Apple Intrinsic Value",
-         xaxis = list(title = ""),
-         yaxis = list(title = "$"),
+  layout(title = "Apple Intrinsic Value"
+         xaxis = list(title = "")
+         yaxis = list(title = "$")
          autosize = TRUE,
          showLegend = FALSE)
 
