@@ -3,8 +3,9 @@ library(plotly)
 
 x = list("Current Share Price", "Upside", "Intrinsic Value")
 measure = c("relative", "relative", "total")
-text = c("", "+90.7", "241.70")
-y = c(151, 90.7, 241.70)
+text = c("153.04", "+88.66", "241.70")
+
+y = c(153.04, 88.66, 241.70)
 data = data.frame(x=factor(x,levels=x),measure,text,y)
 
 fig <- plot_ly(
@@ -12,9 +13,9 @@ fig <- plot_ly(
   x = ~x, textposition = "outside", y= ~y, text =~ text,
   connector = list(line = list(color = "rgb(63, 63, 63)")))
 fig <- fig %>%
-  layout(title = "Apple Intrinsic Value"
-         xaxis = list(title = "")
-         yaxis = list(title = "$")
+  layout(title = "Apple Intrinsic Value",
+         xaxis = list(title = ""),
+         yaxis = list(title = "$"),
          autosize = TRUE,
          showLegend = FALSE)
 
