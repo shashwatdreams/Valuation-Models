@@ -5,7 +5,6 @@ x = list("Current Share Price", "Upside", "Intrinsic Value")
 measure = c("relative", "relative", "total")
 text = c("44.46", "+110.15", "154.61")
 
-# data values to change
 y = c(44.46, 110.15, 154.61)
 data = data.frame(x=factor(x,levels=x),measure,text,y)
 
