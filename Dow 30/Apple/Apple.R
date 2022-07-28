@@ -1,4 +1,6 @@
 install.packages("magrittr")
+install.packages("plotly")
+library(magrittr)
 library(plotly)
 
 x = list("Current Share Price", "Upside", "Intrinsic Value")
