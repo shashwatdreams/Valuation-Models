@@ -15,7 +15,7 @@ Building a valuation model for every company in the Dow 30, to ultimately reach 
 
 - Assumptions
 
-![image](https://user-images.githubusercontent.com/68554481/178505143-fea5ae5e-2d44-4752-b402-9a00af841a71.png)
+![image](https://user-images.githubusercontent.com/68554481/182263479-d55344cc-a549-4614-9460-43769f09faac.png)
 
 
 
