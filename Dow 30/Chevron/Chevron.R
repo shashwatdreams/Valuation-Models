@@ -3,7 +3,6 @@ install.packages("plotly")
 library(magrittr)
 library(plotly)
 
-
 x = list("Current Share Price", "Upside", "Intrinsic Value")
 measure = c("relative", "relative", "total")
 text = c("", "-15.77", "137.87")
