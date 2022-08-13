@@ -19,5 +19,4 @@ fig <- fig %>%
          autosize = TRUE,
          showLegend = FALSE)
 
-
 fig
