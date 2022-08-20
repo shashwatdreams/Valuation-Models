@@ -1,7 +1,6 @@
 install.packages("magrittr")
 library(plotly)
 
-# x axis
 x = list("Current Share Price", "Upside", "Intrinsic Value")
 measure = c("relative", "relative", "total")
 text = c("", "+255.04", "506.18")
