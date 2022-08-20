@@ -43,4 +43,4 @@ Building a valuation model for every company in the Dow 30, to ultimately reach 
 
 
 
-Once the implied share price is found, the upside/downside is graphed. The implied share price will constantly change as banks update their guidance/estimates.
+Once the implied share price is found, the upside/downside is graphed. The implied share price will constantly change as guidance and estimates change.
