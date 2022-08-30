@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 hdrealvalue = 507.70
-hdcurrentvalue = 312.21
+hdcurrentvalue = 296.32
 
 upside = hdrealvalue - hdcurrentvalue
 
