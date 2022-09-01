@@ -9,6 +9,7 @@ text = c("", "-15.54", "137.87")
 y = c(159.62, -15.54, 137.87)
 data = data.frame(x=factor(x,levels=x),measure,text,y)
 
+
 fig <- plot_ly(
   data, name = "", type = "waterfall", measure = ~measure,
   x = ~x, textposition = "outside", y= ~y, text =~ text,
