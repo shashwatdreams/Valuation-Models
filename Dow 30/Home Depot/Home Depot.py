@@ -8,3 +8,5 @@ upside = hdrealvalue - hdcurrentvalue
 a = ['Current Price','Upside']
 b = [hdcurrentvalue, upside]
 waterfall_chart.plot(a, b);
+
+
