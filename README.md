@@ -1,5 +1,5 @@
 # Dow 30 Valuation
-Building a valuation model for every company in the Dow 30, to ultimately reach a fair price for the Dow 30. Most estimates are pulled from analysts, however, a few are based on the expected sector growth.
+Building a valuation model for every company in the Dow 30, to ultimately reach a fair price for the Dow 30. Discount value and estimates are based off of analysts/sector growth.
 
 **Example (Apple):**
 - Pulling Historical Financial Data/Bank's Estimates
